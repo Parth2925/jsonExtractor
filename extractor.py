@@ -11,7 +11,6 @@ def load_json():
 		print(f'Json file not found: {e}')
 		exit()
 
-
 def get_list(data, criteria, value):
 	user_info = []
 	for id in data:
@@ -25,20 +24,16 @@ def get_list(data, criteria, value):
 			exit()		
 	return user_info
 	
-
 def format_data(user_list):
 	return tabulate(user_list, headers=["firstName", "lastName", "email", "Role"])
-
 
 def get_criteria():
 	criteria = input("Enter Criteria Name: ")
 	return criteria
 
-
 def get_value():
 	value = input("Enter Value: ")
 	return value
-
 
 def main():
 	data = load_json()
@@ -48,6 +43,7 @@ def main():
 	with open('output.txt', 'w') as f:
 		f.write(output)
 	print(output)
+
 
 if __name__ == '__main__':
 	main()
