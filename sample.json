@@ -14,17 +14,17 @@
 		"profile": {
 			"Role":"GCCH",
 			"firstName":"Lukasz",
-			"lastName":"Trzaski",
+			"lastName":"Przaski",
 			"mobilePhone": null,
 			"secondEmail": null,
 			"defaultProfile":"gcc",
-			"login": "lukasz.trzaski@cmegroup.com",
-			"email":"lukasz.trzaski@cmegroup.com"
+			"login": "lukasz.przaski@company.com",
+			"email":"lukasz.przaski@company.com"
 		},
 		"credentials": {
 			"password": {},
 			"recovery question": {
-				"question":"What year did you start at EBS?"
+				"question":"What year did you start at ABC?"
 			},
 			"provider":{
 				"type":"OKTA",
@@ -33,7 +33,7 @@
 		},
 		"_links": {
 			"self": {
-				"href": "https: //workstation.cmegroup.com/api/vl/users/00u68tkr5usSSnFE2p7"
+				"href": "https: //station.company.com/api/vl/users/00u68tkr5usSSnFE2p7"
 			}
 		}
 	},
@@ -56,13 +56,13 @@
 			"mobilePhone": null,
 			"secondEmail": null,
 			"defaultProfile":"gcc",
-			"login": "michelle.li@cmegroup.com",
-			"email":"michelle.li@cmegroup.com"
+			"login": "michelle.liam@company.com",
+			"email":"michelle.liam@company.com"
 		},
 		"credentials": {
 			"password": {},
 			"recovery question": {
-				"question":"What year did you start at EBS Michelle?"
+				"question":"What year did you start at ABC?"
 			},
 			"provider":{
 				"type":"OKTA",
@@ -71,7 +71,7 @@
 		},
 		"_links": {
 			"self": {
-				"href": "https: //workstation.cmegroup.com/api/vl/users/00u68tkr5usSSnFE2p8"
+				"href": "https: //station.company.com/api/vl/users/00u68tkr5usSSnFE2p8"
 			}
 		}
 	}
