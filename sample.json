@@ -1,0 +1,78 @@
+[
+	{
+		"id": "00u68tkr5usSSnFzE27",
+		"status": "ACTIVE",
+		"created":"12020-02-06T09:16:56.000ZM",
+		"activated":"12020-02-10T14:09:20.00021",
+		"statusChanged":"2020-05-21T09:14:04.0002",
+		"lastLogin":"2022-05-20T09:32:03.0002",
+		"lastUpdated":"2022-05-18T12:37:19.0002",
+		"passwordChanged":"2022-03-18T10:32:23.000Z",
+		"type": {
+			"id":"oty62h1vde9k2mGGH2p7"
+		},
+		"profile": {
+			"Role":"GCCH",
+			"firstName":"Lukasz",
+			"lastName":"Trzaski",
+			"mobilePhone": null,
+			"secondEmail": null,
+			"defaultProfile":"gcc",
+			"login": "lukasz.trzaski@cmegroup.com",
+			"email":"lukasz.trzaski@cmegroup.com"
+		},
+		"credentials": {
+			"password": {},
+			"recovery question": {
+				"question":"What year did you start at EBS?"
+			},
+			"provider":{
+				"type":"OKTA",
+				"name":"OKTA"
+			}
+		},
+		"_links": {
+			"self": {
+				"href": "https: //workstation.cmegroup.com/api/vl/users/00u68tkr5usSSnFE2p7"
+			}
+		}
+	},
+	{
+		"id": "00u68tlp41KYIUgFB2p7",
+		"status":"ACTIVE",
+		"created": "2020-02-06T09:17:27.000Z",
+		"activated": "2020-02-10T14:06:27.0002",
+		"statusChanged":"2020-06-08T12:45:01.0002",
+		"lastLogin":"2022-05-20T10:30:10.000z",
+		"lastUpdated":"2022-05-18T12:49:42.0002",
+		"passwordChanged":"2022-03-18T03:34:33.0002",
+		"type": {
+			"id": "oty62hlyde9k2mGGH2p7"
+		},
+		"profile": {
+			"Role":"GCCH",
+			"firstName":"Michelle",
+			"lastName":"Li",
+			"mobilePhone": null,
+			"secondEmail": null,
+			"defaultProfile":"gcc",
+			"login": "michelle.li@cmegroup.com",
+			"email":"michelle.li@cmegroup.com"
+		},
+		"credentials": {
+			"password": {},
+			"recovery question": {
+				"question":"What year did you start at EBS Michelle?"
+			},
+			"provider":{
+				"type":"OKTA",
+				"name":"OKTA"
+			}
+		},
+		"_links": {
+			"self": {
+				"href": "https: //workstation.cmegroup.com/api/vl/users/00u68tkr5usSSnFE2p8"
+			}
+		}
+	}
+]

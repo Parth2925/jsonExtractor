@@ -1,0 +1,4 @@
+firstName    lastName    email                        Role
+-----------  ----------  ---------------------------  ------
+Lukasz       Trzaski     lukasz.trzaski@cmegroup.com  GCCH
+Michelle     Li          michelle.li@cmegroup.com     GCCH
